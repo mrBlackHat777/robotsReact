@@ -14,7 +14,6 @@ class App extends Component {
   // this.handleChange=this.handleChange.bind(this)
   }
   componentDidMount(){
-    console.log('debut')
     fetch('https://jsonplaceholder.typicode.com/users')
     .then(response=>response.json())
     .then(users=>this.setState({monsters:users}))
@@ -29,7 +28,8 @@ class App extends Component {
 
     return (
     <div className="App">
-     <SearchBox placeHolder={'search monster'} handleChange={this.handleChange}/>
+      <h1>Monsters</h1>
+      <SearchBox placeHolder={'search monster'} handleChange={this.handleChange}/>
       <CardList monsters={filteredMonster}> </CardList>
     </div>
     );
