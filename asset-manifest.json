@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/robotsReact/static/css/main.d09c1630.chunk.css",
+    "main.js": "/robotsReact/static/js/main.df347436.chunk.js",
+    "main.js.map": "/robotsReact/static/js/main.df347436.chunk.js.map",
+    "runtime-main.js": "/robotsReact/static/js/runtime-main.6f699802.js",
+    "runtime-main.js.map": "/robotsReact/static/js/runtime-main.6f699802.js.map",
+    "static/js/2.308474c0.chunk.js": "/robotsReact/static/js/2.308474c0.chunk.js",
+    "static/js/2.308474c0.chunk.js.map": "/robotsReact/static/js/2.308474c0.chunk.js.map",
+    "index.html": "/robotsReact/index.html",
+    "precache-manifest.79c26bfc2faf6148a80d0cdd0d211b88.js": "/robotsReact/precache-manifest.79c26bfc2faf6148a80d0cdd0d211b88.js",
+    "service-worker.js": "/robotsReact/service-worker.js",
+    "static/css/main.d09c1630.chunk.css.map": "/robotsReact/static/css/main.d09c1630.chunk.css.map",
+    "static/js/2.308474c0.chunk.js.LICENSE.txt": "/robotsReact/static/js/2.308474c0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/robotsReact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f699802.js",
+    "static/js/2.308474c0.chunk.js",
+    "static/css/main.d09c1630.chunk.css",
+    "static/js/main.df347436.chunk.js"
+  ]
+}
